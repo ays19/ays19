@@ -6,6 +6,9 @@ I’ve been sharpening my skills in programming, web development, and data analy
 When I’m not coding, you’ll find me learning new tools, contributing to exciting projects, or brainstorming ideas to bring concepts to life.  
 
 ---
+## 👀 Profile Views  
+
+![Profile Views](https://komarev.com/ghpvc/?username=ays19&color=blue&style=flat-square)  
 
 
 ## 🌐 Connect With Me  
