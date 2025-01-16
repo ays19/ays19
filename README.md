@@ -1,9 +1,9 @@
-# 👨‍💻 Ahsan Yasir Sharar  
+<!-- # 👨‍💻 Ahsan Yasir Sharar  
 
 ### 🌍 Location: Dhaka, Bangladesh  
 📧 Email: [sahsanyasir@gmail.com](mailto:sahsanyasir@gmail.com)  
 📞 Phone: [+880 1729524544](tel:+8801729524544)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ays19/) | [Portfolio](https://ays19.github.io/Sharar-s-portfolio/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ays19/) | [Portfolio](https://ays19.github.io/Sharar-s-portfolio/)   -->
 
 ---
 
@@ -13,7 +13,7 @@ I am a passionate **Software Engineer** and **Computer Science Student** at **Un
 
 I thrive on continuous learning, exploring emerging technologies, and contributing to innovative solutions.  
 
----
+<!-- ---
 
 ## 🎓 Education  
 
@@ -22,9 +22,14 @@ I thrive on continuous learning, exploring emerging technologies, and contributi
   **CGPA:** 3.38/4.00  
 
 - **HSC in Science**  
-  *Cox’s Bazar Govt. College (2016 – 2019)*  
+  *Cox’s Bazar Govt. College (2016 – 2019)*   -->
 
 ---
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
+
 
 ## 🛠️ Technical Skills  
 
