@@ -8,10 +8,10 @@ I'm currently pursuing a **B.Sc. in Computer Science and Engineering** at **Unit
 
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ays19/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ays19)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ays19/)   
 [![Email](https://img.shields.io/badge/Email-sahsanyasir@gmail.com-red)](mailto:sahsanyasir@gmail.com)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharar19)  
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/AYSharar19)  
 
 ---
 
