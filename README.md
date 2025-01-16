@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Ahsan Yasir Sharar  
 
-A passionate **Software Engineer** and **Learner** with a knack for developing innovative solutions. My expertise spans various technologies, including Python, PHP, and web development frameworks.  
-
-I'm currently pursuing a **B.Sc. in Computer Science and Engineering** at **United International University** while building impactful projects and exploring cutting-edge technologies.  
+I am Ahsan Yasir Sharar, a **Software Engineer** and graduate in Computer Science and Engineering with a strong passion for technology-driven innovation. I am particularly drawn to ColabHero's mission of fostering collaboration and creating impactful solutions.  
 
 ---
 
@@ -26,7 +24,7 @@ I'm currently pursuing a **B.Sc. in Computer Science and Engineering** at **Unit
 
 ---
 
-## 🚀 Projects  
+<!-- ## 🚀 Projects  
 
 ### **[Identity-Based Health System](https://github.com/ays19/Identity-based-health-system)**  
 A PHP-based web application for hospital management.  
@@ -67,7 +65,7 @@ A web application for ordering food with an admin panel for managing items and c
 ## 🌱 Extra-Curricular Activities  
 
 - **Member**: Youth for Better Future Society (Since 2020).  
-- **Volunteer**: Media Summit 2024, organized for 350+ participants.  
+- **Volunteer**: Media Summit 2024, organized for 350+ participants.   -->
 
 ---
 
