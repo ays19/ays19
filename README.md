@@ -16,8 +16,7 @@ When I’m not coding, you’ll find me learning new tools, contributing to exci
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ays19/)   [![Email](https://img.shields.io/badge/Email-sahsanyasir@gmail.com-red)](mailto:sahsanyasir@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharar19)  
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/AYSharar19)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharar19)  [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/AYSharar19)  
 
 ---
 
