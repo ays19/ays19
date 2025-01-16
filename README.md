@@ -1,97 +1,87 @@
-<!-- # 👨‍💻 Ahsan Yasir Sharar  
+# 👋 Hi, I'm Ahsan Yasir Sharar  
 
-### 🌍 Location: Dhaka, Bangladesh  
-📧 Email: [sahsanyasir@gmail.com](mailto:sahsanyasir@gmail.com)  
-📞 Phone: [+880 1729524544](tel:+8801729524544)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ays19/) | [Portfolio](https://ays19.github.io/Sharar-s-portfolio/)   -->
+A passionate **Software Engineer** and **Learner** with a knack for developing innovative solutions. My expertise spans various technologies, including Python, PHP, and web development frameworks.  
+
+I'm currently pursuing a **B.Sc. in Computer Science and Engineering** at **United International University** while building impactful projects and exploring cutting-edge technologies.  
 
 ---
 
-## About Me  
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ays19/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white)](https://ays19.github.io/Sharar-s-portfolio/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ays19)  
+[![Email](https://img.shields.io/badge/Email-sahsanyasir@gmail.com-red)](mailto:sahsanyasir@gmail.com)  
 
-I am a passionate **Software Engineer** and **Computer Science Student** at **United International University**, Bangladesh. With a solid foundation in programming and development, I specialize in creating impactful projects and solving real-world problems.  
+---
 
-I thrive on continuous learning, exploring emerging technologies, and contributing to innovative solutions.  
+## 🛠️ Languages, Frameworks & Tools  
 
-<!-- ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+## 🚀 Projects  
+
+### **[Identity-Based Health System](https://github.com/ays19/Identity-based-health-system)**  
+A PHP-based web application for hospital management.  
+- **Features**: Appointment Scheduling, Doctor-Patient Profiles, Prescription Management, and User Authentication.  
+
+### **[Food Order Website](https://github.com/ays19/Food_order)**  
+A web application for ordering food with an admin panel for managing items and categories.  
+- **Technologies**: PHP, HTML, CSS.  
+
+---
 
 ## 🎓 Education  
 
 - **B.Sc. in Computer Science and Engineering**  
   *United International University (2020 – 2024)*  
-  **CGPA:** 3.38/4.00  
+  CGPA: 3.38/4.00  
 
 - **HSC in Science**  
-  *Cox’s Bazar Govt. College (2016 – 2019)*   -->
+  *Cox’s Bazar Govt. College (2016 – 2019)*  
 
 ---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
+## 🏆 Achievements  
 
-
-## 🛠️ Technical Skills  
-
-- **Programming Languages**: Python, C++, C, SQL  
-- **Web Development**: HTML, CSS, Git, GitHub  
-- **Tools**: VS Code, LoadRunner, Sublime Text, Google Colab  
-- **Others**: Problem-Solving, Arduino, LaTeX  
-
----
-
-## 🌟 Projects  
-
-- **[Identity-Based Health System](https://github.com/ays19/Identity-based-health-system)**  
-  A PHP-based web application designed to manage hospitals with features like appointment scheduling, doctor-patient profiles, prescription management, and user authentication.
-
-- **[Food Order Website](https://github.com/ays19/Food_order)**  
-  A web-based platform enabling users to browse food categories, search items, and place orders. Features include an admin panel for managing categories and orders.  
-
----
-
-## 🔬 Research  
-
-- **Cultivating the Future: An IoT-Infused Agricultural Renaissance**  
-  *Final Year Design Project (FYDP)*  
-
----
-
-## 🏅 Achievements  
-
-- **1st Runner-up** - Microprocessors and Micro-controllers Lab, CSE Project Show, United International University (2022)  
-- **Scholarship** - Based on trimester performance (2020 – 2024)  
+- 🥈 **1st Runner-Up** in Microprocessors and Micro-controllers Lab, UIU Project Show (2022).  
+- 📜 Earned a **Scholarship** based on exceptional trimester performance (2020 – 2024).  
 
 ---
 
 ## 📜 Certifications  
 
-- **C Essentials 1** (Cisco Networking Academy, 2024)  
-- **Adobe Illustrator** (Mastering the Fundamentals, 2021)  
-- **Engineering Summit** (2023)  
+- **C Essentials 1** - Cisco Networking Academy (2024).  
+- **Adobe Illustrator** - Mastering Fundamentals (2021).  
+- Participated in **Engineering Summit 2023**.  
 
 ---
 
-## 🤝 Extra-Curricular Activities  
+## 🌱 Extra-Curricular Activities  
 
-- Member, **Youth for Better Future Society** (Since 2020)  
-- Volunteer, **Media Summit 2024**, Center for Advance Media Education, UIU  
+- **Member**: Youth for Better Future Society (Since 2020).  
+- **Volunteer**: Media Summit 2024, organized for 350+ participants.  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 My GitHub Contributions  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=true)  
 
+---
+
+## 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical)  
 
 ---
 
-## 🏆 GitHub Trophies  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ays19&theme=radical)  
-
----
-
-## 📬 Get in Touch  
-
-Feel free to connect or collaborate! I'm always open to opportunities to grow and contribute.  
+Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together!  
