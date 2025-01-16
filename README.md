@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ahsan Yasir Sharar                            ## 👀 Profile Views  
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ays19&color=blue&style=flat-square" alt="Profile Views" />
-  ![Profile Views](https://komarev.com/ghpvc/?username=ays19&color=blue&style=flat-square) 
+  <img src="https://komarev.com/ghpvc/?username=ays19&color=blue&style=flat-square" alt="" /> 
 </p>
   
 
