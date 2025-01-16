@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Ahsan Yasir Sharar  
 
-I am Ahsan Yasir Sharar, a **Software Engineer** and graduate in Computer Science and Engineering with a strong passion for technology-driven innovation. I am particularly drawn to ColabHero's mission of fostering collaboration and creating impactful solutions.  
+Hi there! I'm Ahsan Yasir Sharar, a passionate Software Engineer and problem-solver. I love creating innovative solutions that make life easier and enjoy working with a wide range of technologies, including Python, PHP, and MySQL.
+I’ve been sharpening my skills in programming, web development, and data analysis.
+
+When I’m not coding, you’ll find me learning new tools, contributing to exciting projects, or brainstorming ideas to bring concepts to life.  
 
 ---
 
