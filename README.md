@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Ahsan Yasir Sharar               <p align="right">
+# 👋 Assalamualikum, I'm Ahsan Yasir Sharar              
+ <!-- <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ays19&color=blue&style=flat-square" alt="" /> 
-</p>
+</p> -->
   
 
 
