@@ -75,7 +75,7 @@ A web application for ordering food with an admin panel for managing items and c
 
 
 ## 📊 My GitHub Contributions  
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=true)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=true)  
 
 ---
 
