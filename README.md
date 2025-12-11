@@ -91,6 +91,16 @@ I love learning new technologies, exploring automation ideas, and contributing t
 
 ---
 
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical&cache_seconds=86400&v=1" />
+  
+  <!-- Language card WITH percentages -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_progress=false&langs_count=10&cache_seconds=86400&v=1" />
+</p>
+
+
 <!-- ============================= -->
 <!--      STREAK STATS SECTION     -->
 <!-- ============================= -->
