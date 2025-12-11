@@ -1,90 +1,129 @@
-# 👋 About Me              
- <!-- <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ays19&color=blue&style=flat-square" alt="" /> 
-</p> -->
-  
+<!-- ============================= -->
+<!--        HEADER SECTION         -->
+<!-- ============================= -->
 
+<h1 align="center">Hi 👋, I'm Ahsan Yasir Sharar</h1>
+<h3 align="center">Software Engineer | Python & Django Developer | Problem Solver</h3>
 
-Hi there! I'm Ahsan Yasir Sharar, a passionate Software Engineer and problem-solver. I love creating innovative solutions that make life easier and enjoy working with a wide range of technologies, including Python, PHP, and MySQL.
-I’ve been sharpening my skills in programming, web development, and data analysis.
-
-When I’m not coding, you’ll find me learning new tools, contributing to exciting projects, or brainstorming ideas to bring concepts to life.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ays19&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 ---
- 
 
+<!-- ============================= -->
+<!--        ABOUT SECTION          -->
+<!-- ============================= -->
+
+## 👨‍💻 About Me  
+
+Hi! I'm **Ahsan Yasir Sharar**, a passionate Software Engineer from Bangladesh.  
+I enjoy building meaningful applications and solving real-world problems with:
+
+🔹 Python & Django  
+🔹 Modern Web Development  
+🔹 MySQL, Git, APIs  
+🔹 Clean Architecture & Best Practices  
+
+I love learning new technologies, exploring automation ideas, and contributing to exciting projects.
+
+---
+
+<!-- ============================= -->
+<!--     CONNECT WITH ME           -->
+<!-- ============================= -->
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ays19/)   [![Email](https://img.shields.io/badge/Email-sahsanyasir@gmail.com-red)](mailto:sahsanyasir@gmail.com)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharar19)  [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/AYSharar19)  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ays19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:sahsanyasir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.facebook.com/sharar19"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"></a>
+  <a href="https://x.com/AYSharar19"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"></a>
+</p>
 
 ---
 
-## 🛠️ Languages, Frameworks & Tools  
+<!-- ============================= -->
+<!--   LANGUAGES & TOOLS SECTION   -->
+<!-- ============================= -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  ![LoadRunner](https://img.shields.io/badge/LoadRunner-005EB8?style=for-the-badge&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
+## 🛠️ Skills & Tools  
 
-
----
-
-<!-- ## 🚀 Projects  
-
-### **[Identity-Based Health System](https://github.com/ays19/Identity-based-health-system)**  
-A PHP-based web application for hospital management.  
-- **Features**: Appointment Scheduling, Doctor-Patient Profiles, Prescription Management, and User Authentication.  
-
-### **[Food Order Website](https://github.com/ays19/Food_order)**  
-A web application for ordering food with an admin panel for managing items and categories.  
-- **Technologies**: PHP, HTML, CSS.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,cpp,c,html,css,php,mysql,git,github,vscode,linux,jira" />
+</p>
 
 ---
 
-## 🎓 Education  
+<!-- ============================= -->
+<!--       TROPHIES SECTION        -->
+<!-- ============================= -->
 
-- **B.Sc. in Computer Science and Engineering**  
-  *United International University (2020 – 2024)*  
-  CGPA: 3.38/4.00  
-
-- **HSC in Science**  
-  *Cox’s Bazar Govt. College (2016 – 2019)*  
-
----
-
-## 🏆 Achievements  
-
-- 🥈 **1st Runner-Up** in Microprocessors and Micro-controllers Lab, UIU Project Show (2022).  
-- 📜 Earned a **Scholarship** based on exceptional trimester performance (2020 – 2024).  
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-## 📜 Certifications  
+<!-- ============================= -->
+<!--   GITHUB CONTRIBUTION GRAPH   -->
+<!-- ============================= -->
 
-- **C Essentials 1** - Cisco Networking Academy (2024).  
-- **Adobe Illustrator** - Mastering Fundamentals (2021).  
-- Participated in **Engineering Summit 2023**.  
-
----
-
-## 🌱 Extra-Curricular Activities  
-
-- **Member**: Youth for Better Future Society (Since 2020).  
-- **Volunteer**: Media Summit 2024, organized for 350+ participants.   -->
-
-
-## 📊 My GitHub Contributions  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=true" alt="GitHub Contributions" />
-
-  
+## 📊 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true" />
+</p>
 
 ---
+
+<!-- ============================= -->
+<!--       GITHUB STATS SECTION    -->
+<!-- ============================= -->
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical)  
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical&cache_seconds=86400&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&cache_seconds=86400&v=1" />
+</p>
 
 ---
 
-Feel free to explore my repositories or reach out for collaboration opportunities. Let's build something amazing together!  
+<!-- ============================= -->
+<!--      STREAK STATS SECTION     -->
+<!-- ============================= -->
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<!-- ============================= -->
+<!--      PINNED PROJECTS          -->
+<!-- ============================= -->
+
+## 🚀 Featured Projects  
+
+<p align="left">
+  <a href="https://github.com/ays19/Identity-based-health-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" />
+  </a>
+  <a href="https://github.com/ays19/Food_order">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" />
+  </a>
+</p>
+
+---
+
+<!-- ============================= -->
+<!--       FINAL MESSAGE           -->
+<!-- ============================= -->
+
+## 🤝 Let's Build Something Amazing  
+If you want to collaborate on Python, Django, automation, or AI-powered projects—feel free to reach out.  
+I'm always interested in exciting ideas and meaningful work!
+
