@@ -83,7 +83,8 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 ---
 
 ##📈 GitHub Stats & Languages
-![](https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical)
+
 
 ---
 
