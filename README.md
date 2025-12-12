@@ -104,13 +104,6 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ---
 
-## 💻 Profile Views Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ays19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 🤝 Let's Build Something Amazing  
 I'm open to collaborating on Python, Django, AI, Automation, or IoT projects.  
 Feel free to reach out anytime!
