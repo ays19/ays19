@@ -80,21 +80,16 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
-
-##📈 GitHub Stats & Languages
-![](https://komarev.com/ghpvc/?username=ays19&color=blueviolet)
-
 
 ---
 
-##🔥 GitHub Streak
+##**🔥 GitHub Streak**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
-💻 Most Used Languages
+**💻 Most Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
