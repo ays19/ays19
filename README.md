@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <h1 align="center">Hi 👋, I'm Ahsan Yasir Sharar</h1>
-<h3 align="center">Software Engineer | Python & Django Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Python & Django Developer | IoT Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ays19&style=flat-square&color=blue" alt="Profile Views"/>
@@ -11,27 +11,22 @@
 
 ---
 
-<!-- ============================= -->
-<!--        ABOUT SECTION          -->
-<!-- ============================= -->
-
 ## 👨‍💻 About Me  
 
-Hi! I'm **Ahsan Yasir Sharar**, a passionate Software Engineer from Bangladesh.  
-I enjoy building meaningful applications and solving real-world problems with:
+Dedicated and results-driven **Software Engineer** with hands-on experience in  
+**Python, Django, MySQL, Web Development, and IoT-driven solutions**.  
 
-🔹 Python & Django  
-🔹 Modern Web Development  
-🔹 MySQL, Git, APIs  
-🔹 Clean Architecture & Best Practices  
+I enjoy turning ideas into real-world solutions — from full-stack web apps to automation tools, and research-driven innovation.
 
-I love learning new technologies, exploring automation ideas, and contributing to exciting projects.
+### 🔍 What I Do  
+- 🧑‍💻 Develop scalable web applications using **Python & Django**  
+- 🛢️ Build efficient database systems with **MySQL & SQL**  
+- 🌐 Create clean, responsive UI with **HTML, CSS, Bootstrap**  
+- ⚙️ Work with **APIs**, version control, and software best practices  
+- 🔬 Explore **IoT** and automation concepts  
+- 🤝 Collaborate on research & community initiatives  
 
 ---
-
-<!-- ============================= -->
-<!--     CONNECT WITH ME           -->
-<!-- ============================= -->
 
 ## 🌐 Connect With Me  
 
@@ -44,96 +39,120 @@ I love learning new technologies, exploring automation ideas, and contributing t
 
 ---
 
-<!-- ============================= -->
-<!--   LANGUAGES & TOOLS SECTION   -->
-<!-- ============================= -->
+## 🛠️ Technical Skills  
 
-## 🛠️ Skills & Tools  
+### 💻 **Programming Languages**
+- Python • C++ • C • SQL  
+
+### 🧱 **Web Development**
+- HTML • CSS • PHP • Django • REST API  
+
+### 🔧 **Tools & Workflow**
+- Git • GitHub • VS Code • LoadRunner • Sublime Text  
+- Google Colab • LaTeX • Arduino  
+
+### 🤖 **Additional Skills**
+- Generative AI • Problem Solving • Software Debugging  
+- Agile Workflow • Research Documentation  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,cpp,c,html,css,php,mysql,git,github,vscode,linux,jira" />
+  <img src="https://skillicons.dev/icons?i=python,django,cpp,c,html,css,php,mysql,git,github,vscode,linux,jira,arduino" />
 </p>
 
 ---
 
-<!-- ============================= -->
-<!--       TROPHIES SECTION        -->
-<!-- ============================= -->
+## 🧪 Featured Projects  
 
-## 🏆 GitHub Trophies  
+### 🔹 **Identity-Based Health System**  
+A complete hospital management system with scheduling, user authentication, and patient/doctor modules.  
+**Tech:** PHP, MySQL, HTML/CSS  
+🔗 GitHub: https://github.com/ays19/Identity-based-health-system
+
+### 🔹 **Food Order Website**  
+A responsive food ordering system with admin panel for categories & inventory.  
+**Tech:** PHP, HTML, CSS  
+🔗 GitHub: https://github.com/ays19/Food_order
+
+---
+
+## 🏆 Achievements  
+
+- 🥈 **1st Runner-Up** — Microprocessors & Micro-controllers Lab, UIU Project Show (2022)  
+- 🎓 **Academic Scholarship (2020–2024)** for consistent performance  
+- 📡 Completed multiple certification programs including **Generative AI, Software Development, Cisco C Essentials**, and **Python & Django**
+
+---
+
+## 📜 Certifications  
+
+- Career Essentials in Generative AI — Microsoft & LinkedIn (2025)  
+- Career Essentials in Software Development — Microsoft & LinkedIn (2025)  
+- Python & Django — CodersTrust (2025)  
+- Introduction to Generative AI — Google (2025)  
+- C Essentials 1 — Cisco Networking Academy (2024)  
+- Entrepreneurial Skills — ICT Division, Bangladesh (2025)  
+- Engineering Summit 2023 — IDEB Bhaban  
+
+---
+
+## 🧑‍💼 Experience  
+
+### 💼 **Junior Software Developer — SWOT System Limited**  
+*Feb 2025 – Present*  
+- Building enterprise-grade web applications using **Python, Django, REST APIs**  
+- Working in Agile development cycles  
+- Collaborating on backend systems optimization  
+
+### 🤝 **Community & Leadership**
+- Member — Youth for Better Future Society (2020–Present)  
+- Volunteer — Media Summit 2024 & 2025  
+  - Managed logistics, assisted sessions, supported coordination for 350+ participants  
+
+---
+
+## 🏅 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-<!-- ============================= -->
-<!--   GITHUB CONTRIBUTION GRAPH   -->
-<!-- ============================= -->
-
 ## 📊 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-<!-- ============================= -->
-<!--       GITHUB STATS SECTION    -->
-<!-- ============================= -->
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical&cache_seconds=86400&v=1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&cache_seconds=86400&v=1" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ays19&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats  
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical&cache_seconds=86400&v=1" />
-  
-  <!-- Language card WITH percentages -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_progress=false&langs_count=10&cache_seconds=86400&v=1" />
+  <img height="170" src="https://github-readme-stats-mr.vercel.app/api?username=ays19&show_icons=true&theme=radical&v=1" />
+  <img height="170" src="https://github-readme-stats-mr.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_progress=false&langs_count=10&v=1" />
 </p>
 
-
-<!-- ============================= -->
-<!--      STREAK STATS SECTION     -->
-<!-- ============================= -->
+---
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-<!-- ============================= -->
-<!--      PINNED PROJECTS          -->
-<!-- ============================= -->
-
-## 🚀 Featured Projects  
+## 🚀 Pinned Projects  
 
 <p align="left">
   <a href="https://github.com/ays19/Identity-based-health-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" />
+    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" />
   </a>
   <a href="https://github.com/ays19/Food_order">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" />
+    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" />
   </a>
 </p>
 
 ---
 
-<!-- ============================= -->
-<!--       FINAL MESSAGE           -->
-<!-- ============================= -->
-
 ## 🤝 Let's Build Something Amazing  
-If you want to collaborate on Python, Django, automation, or AI-powered projects—feel free to reach out.  
-I'm always interested in exciting ideas and meaningful work!
+I'm open to collaborating on Python, Django, AI, Automation, or IoT projects.  
+Feel free to reach out anytime!
 
