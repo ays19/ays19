@@ -3,7 +3,7 @@
 <!-- ============================= -->
 
 <h1 align="center">Hi 👋, I'm Ahsan Yasir Sharar</h1>
-<h3 align="center">Software Engineer | Python & Django Developer | IoT Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineer | Python & Django Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ays19&style=flat-square&color=blue" alt="Profile Views"/>
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me  
 
 Dedicated and results-driven **Software Engineer** with hands-on experience in  
-**Python, Django, MySQL, Web Development, and IoT-driven solutions**.  
+**Python, Django, MySQL, Web Development, and Software Development**.  
 
 I enjoy turning ideas into real-world solutions — from full-stack web apps to automation tools, and research-driven innovation.
 
@@ -23,7 +23,6 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 - 🛢️ Build efficient database systems with **MySQL & SQL**  
 - 🌐 Create clean, responsive UI with **HTML, CSS, Bootstrap**  
 - ⚙️ Work with **APIs**, version control, and software best practices  
-- 🔬 Explore **IoT** and automation concepts  
 - 🤝 Collaborate on research & community initiatives  
 
 ---
@@ -61,52 +60,11 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ---
 
-## 🧪 Featured Projects  
-
-### 🔹 **Identity-Based Health System**  
-A complete hospital management system with scheduling, user authentication, and patient/doctor modules.  
-**Tech:** PHP, MySQL, HTML/CSS  
-🔗 GitHub: https://github.com/ays19/Identity-based-health-system
-
-### 🔹 **Food Order Website**  
-A responsive food ordering system with admin panel for categories & inventory.  
-**Tech:** PHP, HTML, CSS  
-🔗 GitHub: https://github.com/ays19/Food_order
-
----
-
 ## 🏆 Achievements  
 
 - 🥈 **1st Runner-Up** — Microprocessors & Micro-controllers Lab, UIU Project Show (2022)  
 - 🎓 **Academic Scholarship (2020–2024)** for consistent performance  
 - 📡 Completed multiple certification programs including **Generative AI, Software Development, Cisco C Essentials**, and **Python & Django**
-
----
-
-## 📜 Certifications  
-
-- Career Essentials in Generative AI — Microsoft & LinkedIn (2025)  
-- Career Essentials in Software Development — Microsoft & LinkedIn (2025)  
-- Python & Django — CodersTrust (2025)  
-- Introduction to Generative AI — Google (2025)  
-- C Essentials 1 — Cisco Networking Academy (2024)  
-- Entrepreneurial Skills — ICT Division, Bangladesh (2025)  
-- Engineering Summit 2023 — IDEB Bhaban  
-
----
-
-## 🧑‍💼 Experience  
-
-### 💼 **Junior Software Developer — SWOT System Limited**  
-*Feb 2025 – Present*  
-- Building enterprise-grade web applications using **Python, Django, REST APIs**  
-- Working in Agile development cycles  
-- Collaborating on backend systems optimization  
-
-### 🤝 **Community & Leadership**
-- Member — Youth for Better Future Society (2020–Present)  
-- Volunteer — Media Summit 2024 & 2025  
-  - Managed logistics, assisted sessions, supported coordination for 350+ participants  
 
 ---
 
