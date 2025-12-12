@@ -93,6 +93,10 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 </p>
 
 ---
+💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ## 🎯 Alternative Stats (If above doesn't work)
 <p align="center">
