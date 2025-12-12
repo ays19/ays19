@@ -70,29 +70,43 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ## 🏅 GitHub Trophies 
 <p align="center">
-  <img decoding="async" loading="lazy" src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📊 Contribution Graph (Confirmed Working)
+## 📊 Contribution Graph
 <p align="center">
-  <img decoding="async" loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats 
 <p align="center">
-  <img decoding="async" loading="lazy" height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img decoding="async" loading="lazy" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak 
 <p align="center">
-  <img decoding="async" loading="lazy" src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎯 Alternative Stats (If above doesn't work)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=tokyonight" alt="Stats Alt" />
+</p>
+
+---
+
+## 💻 Profile Views Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ays19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
