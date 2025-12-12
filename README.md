@@ -82,7 +82,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ---
 
-📈 GitHub Stats & Languages
+##📈 GitHub Stats & Languages
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
@@ -90,7 +90,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ---
 
-## 🔥 GitHub Streak 
+##🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
