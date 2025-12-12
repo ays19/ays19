@@ -68,43 +68,43 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ---
 
-## 🏅 GitHub Trophies  
+## 🏅 GitHub Trophies 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📊 Contribution Graph  
+## 📊 Contribution Graph 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ays19&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ays19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-mr.vercel.app/api?username=ays19&show_icons=true&theme=radical&v=1" />
-  <img height="170" src="https://github-readme-stats-mr.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_progress=false&langs_count=10&v=1" />
+  <img height="170" src="https://github-readme-stats-mr.vercel.app/api?username=ays19&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-mr.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_progress=false&langs_count=10&v=1" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 Pinned Projects  
+## 🚀 Pinned Projects 
 
 <p align="left">
   <a href="https://github.com/ays19/Identity-based-health-system">
-    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" />
+    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" alt="Pinned Project 1" />
   </a>
   <a href="https://github.com/ays19/Food_order">
-    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" />
+    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" alt="Pinned Project 2" />
   </a>
 </p>
 
