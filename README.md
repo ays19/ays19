@@ -70,42 +70,29 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ## 🏅 GitHub Trophies 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img decoding="async" loading="lazy" src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📊 Contribution Graph (Working - Keeping this code)
+## 📊 Contribution Graph (Confirmed Working)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img decoding="async" loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical" alt="Top Languages" />
+  <img decoding="async" loading="lazy" height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img decoding="async" loading="lazy" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Pinned Projects 
-
-<p align="left">
-  <a href="https://github.com/ays19/Identity-based-health-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" alt="Pinned Project 1" />
-  </a>
-  <a href="https://github.com/ays19/Food_order">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" alt="Pinned Project 2" />
-  </a>
+  <img decoding="async" loading="lazy" src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
