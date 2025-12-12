@@ -77,15 +77,15 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ## 📊 Contribution Graph 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ays19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-mr.vercel.app/api?username=ays19&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-mr.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&hide_progress=false&langs_count=10&v=1" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
@@ -101,10 +101,10 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 <p align="left">
   <a href="https://github.com/ays19/Identity-based-health-system">
-    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" alt="Pinned Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Identity-based-health-system&theme=radical" alt="Pinned Project 1" />
   </a>
   <a href="https://github.com/ays19/Food_order">
-    <img src="https://github-readme-stats-mr.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" alt="Pinned Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ays19&repo=Food_order&theme=radical" alt="Pinned Project 2" />
   </a>
 </p>
 
