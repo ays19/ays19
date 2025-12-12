@@ -83,7 +83,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 ---
 
 ##📈 GitHub Stats & Languages
-![](https://streak-stats.demolab.com/?user=ays19&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=ays19&theme=radical)
 
 
 ---
