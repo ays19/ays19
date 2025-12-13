@@ -44,7 +44,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 - Python • C++ • C • SQL  
 
 ### 🧱 **Web Development**
-- HTML • CSS • PHP • Django • REST API  
+-Django • HTML • CSS • PHP • REST API  
 
 ### 🔧 **Tools & Workflow**
 - Git • GitHub • VS Code • LoadRunner • Sublime Text  
