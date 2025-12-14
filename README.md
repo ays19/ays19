@@ -67,7 +67,6 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 - 📡 Completed multiple certification programs including **Generative AI, Software Development, Cisco C Essentials**, and **Python & Django**
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏅 GitHub Trophies 
 <p align="center">
