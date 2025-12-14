@@ -67,6 +67,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 - 📡 Completed multiple certification programs including **Generative AI, Software Development, Cisco C Essentials**, and **Python & Django**
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏅 GitHub Trophies 
 <p align="center">
@@ -89,7 +90,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 </p>
 
 ---
-## 🎯 Github Stats
+## 🎯 Most Used Language
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
