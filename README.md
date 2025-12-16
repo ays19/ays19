@@ -100,7 +100,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ---
 
-##**🔥  GitHub Steaks
+## 🏅 GitHub Steaks
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
