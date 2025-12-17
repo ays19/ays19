@@ -119,6 +119,6 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 ---
 
 ## 🤝 Let's Build Something Amazing  
-I'm open to collaborating on Python, Django, AI, Automation, or IoT projects.  
+I'm open to collaborating on Python, Django, AI, Automation.  
 Feel free to reach out anytime!
 
