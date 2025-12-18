@@ -87,7 +87,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 ## 🏅 GitHub Trophies 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ays19&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
 </p>
 
 ---
