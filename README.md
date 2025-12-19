@@ -101,9 +101,12 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 ---
 
 ## 🏅 GitHub Steaks
+## 🔥 GitHub Commit Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ays19&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
 
 ---
 ## 🎯 Most Used Language
