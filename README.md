@@ -103,10 +103,14 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 ## 🏅 GitHub Steaks
 ## 🔥 GitHub Commit Streak
 
+## 🔥 GitHub Commit Streak
+
 <p align="center">
- [ <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak Stats" />](https://streak-stats.demolab.com?user=ays19&theme=dark&hide_border=true
-)
+  <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  https://streak-stats.demolab.com?user=ays19&theme=dark&hide_border=true
+
 </p>
+
 
 
 ---
