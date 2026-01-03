@@ -83,47 +83,14 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 - 🎓 **Academic Scholarship (2020–2024)** for consistent performance  
 - 📡 Completed multiple certification programs including **Generative AI, Software Development, Cisco C Essentials**, and **Python & Django**
 
----
-
-## 🏅 GitHub Trophies 
-<p align="center">
-
-</p>
 
 ---
 
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ays19&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-
----
-
-## 🏅 GitHub Steaks
+## 🏅 GitHub Insights
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=ays19&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
-## 🔥 GitHub Commit Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ays19&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
- 
-</p>
-
-
-
----
-## 🎯 Most Used Language
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ays19&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-## 🎯 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ays19&show_icons=true&theme=tokyonight" alt="Stats Alt" />
-</p>
 
 ---
 
