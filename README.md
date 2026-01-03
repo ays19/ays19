@@ -101,6 +101,9 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 ---
 
 ## 🏅 GitHub Steaks
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ays19&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 ## 🔥 GitHub Commit Streak
 
