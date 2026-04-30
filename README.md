@@ -81,7 +81,7 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 
 - 🥈 **1st Runner-Up** — Microprocessors & Micro-controllers Lab, UIU Project Show (2022)  
 - 🎓 **Academic Scholarship (2020–2024)** for consistent performance  
-- 📡 Completed multiple certification programs including **Generative AI, Software Development, Cisco C Essentials**, and **Python & Django**
+- 📡 Completed multiple certification programs including **Software Development, Devnet Associate, Generative AI,  Cisco C Essentials**, and **Python & Django**
 
 
 ---
