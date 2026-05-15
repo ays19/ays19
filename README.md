@@ -14,12 +14,12 @@
 ## 👨‍💻 About Me  
 
 Dedicated and results-driven **Software Engineer** with hands-on experience in  
-**Python, Django, MySQL, Web Development, and Software Development**.  
+**Python, Django, Django REST Framework, MySQL, Web Development, and Software Development**.  
 
 I enjoy turning ideas into real-world solutions — from full-stack web apps to automation tools, and research-driven innovation.
 
 ### 🔍 What I Do  
-- 🧑‍💻 Develop scalable web applications using **Python & Django**  
+- 🧑‍💻 Develop scalable web applications using **Python & Django, Django REST Framework**  
 - 🛢️ Build efficient database systems with **MySQL & SQL**  
 - 🌐 Create clean, responsive UI with **HTML, CSS, Bootstrap**  
 - ⚙️ Work with **APIs**, version control, and software best practices  
