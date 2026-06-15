@@ -1,9 +1,5 @@
-<!-- ============================= -->
-<!--        HEADER SECTION         -->
-<!-- ============================= -->
-
 <h1 align="center">Hi 👋, I'm Ahsan Yasir Sharar</h1>
-<h3 align="center">Software Engineer | Python & Django Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Engineer | Python & Django Developer | AI Integration Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ays19&style=flat-square&color=blue" alt="Profile Views"/>
@@ -13,17 +9,52 @@
 
 ## 👨‍💻 About Me  
 
-Dedicated and results-driven **Software Engineer** with hands-on experience in  
-**Python, Django, Django REST Framework, MySQL, Web Development, and Software Development**.  
+I am a **Software Engineer** specializing in robust Python backend architectures, database optimization, and intelligent LLM application design. I bridge the gap between traditional production systems and cutting-edge agentic workflows, leveraging advanced AI development environments to accelerate feature delivery without compromising code quality.
 
-I enjoy turning ideas into real-world solutions — from full-stack web apps to automation tools, and research-driven innovation.
+### 🚀 What I'm Focused On:
+- 🛠️ **High-Performance Backends:** Building production-grade REST APIs using Django and DRF, with a heavy focus on query profiling, database consistency, and performance tuning.
+- 🤖 **Agentic AI Workflows:** Orchestrating intelligent systems and streamlining development velocity using **Antigravity**, **Cursor**, and **Codex** for high-level logic planning and execution.
+- ⚙️ **Modern Dev Practices:** Writing automated integration tests, containerizing environments with Docker, and setting up seamless CI/CD pipelines.
 
-### 🔍 What I Do  
-- 🧑‍💻 Develop scalable web applications using **Python & Django, Django REST Framework**  
-- 🛢️ Build efficient database systems with **MySQL & SQL**  
-- 🌐 Create clean, responsive UI with **HTML, CSS, Bootstrap**  
-- ⚙️ Work with **APIs**, version control, and software best practices  
-- 🤝 Collaborate on research & community initiatives  
+---
+
+## 🛠️ Technical Tech Stack
+
+### 💻 Core Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-Red?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### 🤖 AI Engineering & Agentic Tools
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=flat&logo=github&logoColor=white)
+
+### 🔧 DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🛒 [Storefront — Production e-Commerce REST API](https://github.com/ays19)
+A production-ready e-commerce infrastructure optimized for scale and heavy database traffic.
+- **Massive Optimization:** Slashed database queries from **1,002 down to 3** using strategic `select_related()`, `prefetch_related()`, and batching primitives via Django Silk profiling.
+- **Architecture:** Implemented asynchronous order signals using Celery/Redis, secure UUID-based anonymous carts, and database transactions to safeguard stock counts.
+- **DevOps:** Built complete Load Testing configurations with Locust, end-to-end testing via pytest, and fully containerized the pipeline using Docker.
+
+### 🤖 [AI-Powered Customer Support System](https://github.com/ays19)
+ An intelligent automation engine designed to filter, categorize, and answer support tickets dynamically.
+- **LLM Orchestration:** Integrated the Gemini API via the Vercel AI SDK to automate ticket context classification and summary generation.
+- **Human-in-the-Loop:** Structured a multi-step verification pipeline: Intake Classification ➡️ AI Prompt Generation ➡️ Human Review UI.
 
 ---
 
@@ -32,57 +63,14 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 <p align="left">
   <a href="https://www.linkedin.com/in/ays19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:sahsanyasir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.facebook.com/sharar19"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"></a>
   <a href="https://x.com/AYSharar19"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
 
-## 🛠️ Technical Skills  
+## 🤝 Let's Build Something Amazing  
 
-### 💻 **Programming Languages**
-- Python • C++ • C • SQL  
-
-### 🧱 **Web Development**
--Django • HTML • CSS • PHP • REST API  
-
-### 🔧 **Tools & Workflow**
-- Git • GitHub • VS Code • LoadRunner • Sublime Text  
-- Google Colab • LaTeX • Arduino  
-
-### 🤖 **Additional Skills**
-- Generative AI • Problem Solving • Software Debugging  
-- Agile Workflow • Research Documentation  
-
-<p align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![LoadRunner](https://img.shields.io/badge/LoadRunner-005EB8?style=flat&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-</p>
-
-
----
-
-## 🏆 Achievements  
-
-- 🥈 **1st Runner-Up** — Microprocessors & Micro-controllers Lab, UIU Project Show (2022)  
-- 🎓 **Academic Scholarship (2020–2024)** for consistent performance  
-- 📡 Completed multiple certification programs including **Software Development, Devnet Associate, Generative AI,  Cisco C Essentials**, and **Python & Django**
-
+I'm always open to collaborating on open-source tools, agentic AI architectures, or high-performance Django systems. If you are scaling a backend, engineering intelligent workflows, or just want to talk shop about query optimization, feel free to reach out!
 
 ---
 
@@ -90,11 +78,3 @@ I enjoy turning ideas into real-world solutions — from full-stack web apps to 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=ays19&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
-
-
----
-
-## 🤝 Let's Build Something Amazing  
-I'm open to collaborating on Python, Django, AI, Automation.  
-Feel free to reach out anytime!
-
