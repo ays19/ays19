@@ -53,7 +53,7 @@ A production-ready e-commerce infrastructure optimized for scale and heavy datab
 
 ### 🤖 [AI-Powered Customer Support System](https://github.com/ays19)
  An intelligent automation engine designed to filter, categorize, and answer support tickets dynamically.
-- **LLM Orchestration:** Integrated the Gemini API via the Vercel AI SDK to automate ticket context classification and summary generation.
+- **LLM Orchestration:** Integrated the Groq API via the Vercel AI SDK to automate ticket context classification and summary generation.
 - **Human-in-the-Loop:** Structured a multi-step verification pipeline: Intake Classification ➡️ AI Prompt Generation ➡️ Human Review UI.
 
 ---
