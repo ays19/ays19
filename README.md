@@ -51,10 +51,10 @@ A production-ready e-commerce infrastructure optimized for scale and heavy datab
 - **Architecture:** Implemented asynchronous order signals using Celery/Redis, secure UUID-based anonymous carts, and database transactions to safeguard stock counts.
 - **DevOps:** Built complete Load Testing configurations with Locust, end-to-end testing via pytest, and fully containerized the pipeline using Docker.
 
-### 🤖 [AI-Powered Customer Support System](https://github.com/ays19)
- An intelligent automation engine designed to filter, categorize, and answer support tickets dynamically.
-- **LLM Orchestration:** Integrated the Groq API via the Vercel AI SDK to automate ticket context classification and summary generation.
-- **Human-in-the-Loop:** Structured a multi-step verification pipeline: Intake Classification ➡️ AI Prompt Generation ➡️ Human Review UI.
+### 🤖 [HELPDESK — AI Agents That Resolve Support Tickets](https://github.com/ays19/HELPDESK)
+A production-deployed multi-agent pipeline that classifies, resolves, and replies to support tickets autonomously — before a human sees them.
+- **Multi-Agent Pipeline:** Three PgBoss queue workers (classify → auto-resolve → send email) built on Groq (llama-3.1-8b-instant) via the Vercel AI SDK. Tickets are resolved and emailed to customers with no human involvement.
+- **Production-Ready:** Deployed on Railway with Docker, 145 tests (Vitest + Playwright), Sentry error monitoring, row-level locking for idempotency, and role-based access control.
 
 ---
 
