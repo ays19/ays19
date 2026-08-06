@@ -45,7 +45,7 @@ I am a **Software Engineer** specializing in robust Python backend architectures
 
 ## 🔥 Featured Projects
 
-### 🛒 [Storefront — Production e-Commerce REST API](https://github.com/ays19)
+### 🛒 [Storefront — Production e-Commerce REST API](https://github.com/ays19/storefront)
 A production-ready e-commerce infrastructure optimized for scale and heavy database traffic.
 - **Massive Optimization:** Slashed database queries from **1,002 down to 3** using strategic `select_related()`, `prefetch_related()`, and batching primitives via Django Silk profiling.
 - **Architecture:** Implemented asynchronous order signals using Celery/Redis, secure UUID-based anonymous carts, and database transactions to safeguard stock counts.
