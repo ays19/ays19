@@ -56,6 +56,15 @@ A production-deployed multi-agent pipeline that classifies, resolves, and replie
 - **Multi-Agent Pipeline:** Three PgBoss queue workers (classify → auto-resolve → send email) built on Groq (llama-3.1-8b-instant) via the Vercel AI SDK. Tickets are resolved and emailed to customers with no human involvement.
 - **Production-Ready:** Deployed on Railway with Docker, 145 tests (Vitest + Playwright), Sentry error monitoring, row-level locking for idempotency, and role-based access control.
 
+## 🏅 Certifications
+- Google × Kaggle — 5-Day AI Agents Intensive (2026)
+- AWS AI Practitioner — AWS + Udacity (2026)
+- Cisco DevNet Associate (2026)
+- Python & Django – CodersTrust (2025)
+- Career Essentials in Software Development – Microsoft & LinkedIn (2025)
+- Career Essentials in Generative AI – Microsoft & LinkedIn (2025)
+- Introduction to Generative AI – Google (2025)
+
 ---
 
 ## 🌐 Connect With Me  
