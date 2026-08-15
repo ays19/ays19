@@ -27,6 +27,8 @@ I am a **Software Engineer** specializing in robust Python backend architectures
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white)
 
 ### 🤖 AI Engineering & Agentic Tools
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white)
@@ -55,6 +57,12 @@ A production-ready e-commerce infrastructure optimized for scale and heavy datab
 A production-deployed multi-agent pipeline that classifies, resolves, and replies to support tickets autonomously — before a human sees them.
 - **Multi-Agent Pipeline:** Three PgBoss queue workers (classify → auto-resolve → send email) built on Groq (llama-3.1-8b-instant) via the Vercel AI SDK. Tickets are resolved and emailed to customers with no human involvement.
 - **Production-Ready:** Deployed on Railway with Docker, 145 tests (Vitest + Playwright), Sentry error monitoring, row-level locking for idempotency, and role-based access control.
+
+### 💳 [SaaS-Django — Full Subscription Platform with Real Stripe Billing](https://github.com/ays19/SaaS-Django)
+A production SaaS platform with real Stripe billing, Stripe-synced Django admin, and a 6-stage CI/CD pipeline.
+- **Billing Engine:** Signal-driven Stripe synchronization — creating a plan in Django admin auto-provisions the matching Stripe Product/Price, with auto-syncing permissions and a duplicate-subscription safeguard against double-billing.
+- **CI/CD Pipeline:** 6-stage GitHub Actions pipeline progressing from basic tests to isolated Neon Postgres database branching per run, plus a scheduled worker reconciling Stripe state twice daily.
+- **DevOps:** Dockerized and deployed to Render with Neon serverless Postgres, django-allauth for GitHub OAuth/email authentication, and a Tailwind CSS + Flowbite frontend build.
 
 ## 🏅 Certifications
 - Google × Kaggle — 5-Day AI Agents Intensive (2026)
